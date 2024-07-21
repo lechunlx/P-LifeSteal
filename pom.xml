@@ -6,11 +6,11 @@
 
     <groupId>eu.vibemc</groupId>
     <artifactId>LifeSteal</artifactId>
-    <version>1.9.4</version>
+    <version>1.9.5</version>
     <packaging>jar</packaging>
     <name>P-LifeSteal</name>
 
-    <description>Plugin for stealing lives, inspired by Polish server "Anarchia SMP".</description>
+    <description>Plugin updated and maintained by "hun1er".</description>
     <properties>
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -33,7 +33,7 @@
                 <artifactId>maven-jar-plugin</artifactId>
                 <version>3.3.0</version>
                 <configuration>
-                    <outputDirectory>E:\platforma testowa\plugins</outputDirectory>
+                    <outputDirectory>F:\newplugtesting\P-LifeSteal\target</outputDirectory>
                 </configuration>
             </plugin>
             <plugin>
@@ -101,13 +101,13 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.20.1-R0.1-SNAPSHOT</version>
+            <version>1.21-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>dev.jorel</groupId>
             <artifactId>commandapi-bukkit-shade</artifactId>
-            <version>9.3.0</version>
+            <version>9.5.1</version>
         </dependency>
         <dependency>
             <groupId>com.googlecode.json-simple</groupId>

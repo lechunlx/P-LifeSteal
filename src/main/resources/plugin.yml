@@ -3,7 +3,7 @@ version: '${project.version}'
 main: eu.vibemc.lifesteal.Main
 api-version: 1.18
 authors: [ devPrzemuS ]
-description: Plugin for stealing lives, inspired by Polish server "Anarchia SMP".
+description: Plugin for stealing lives, inspired by Polish server "Anarchia SMP" (Updated and maintained by hun1er).
 website: https://ls.przemus.xyz/
 softdepend:
   - PlaceholderAPI
