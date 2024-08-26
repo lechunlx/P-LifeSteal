@@ -6,7 +6,7 @@
 
     <groupId>eu.vibemc</groupId>
     <artifactId>LifeSteal</artifactId>
-    <version>1.9.5</version>
+    <version>1.9.6</version>
     <packaging>jar</packaging>
     <name>P-LifeSteal</name>
 
@@ -15,7 +15,7 @@
         <java.version>17</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>https://ls.przemus.xyz/</url>
+    <url>https://github.com/Head-BOB/P-LifeSteal</url>
 
     <build>
         <plugins>
@@ -101,13 +101,13 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.21-R0.1-SNAPSHOT</version>
+            <version>1.21.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>dev.jorel</groupId>
             <artifactId>commandapi-bukkit-shade</artifactId>
-            <version>9.5.1</version>
+            <version>9.5.3</version>
         </dependency>
         <dependency>
             <groupId>com.googlecode.json-simple</groupId>
